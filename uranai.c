@@ -5,7 +5,7 @@ int main(){
     int birth,birth2,sum,ans;
 
     printf("Input your birthday\n");
-    printf("ex:1965-8-5==19650815>>");
+    printf("ex:1965-8-15==19650815>>");
     scanf("%d",&birth);
 
     printf("Input your partner's birthday>>");
